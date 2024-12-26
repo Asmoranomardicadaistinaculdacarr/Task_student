@@ -5,6 +5,6 @@ class IUStudent extends Student {
 
     @Override
     public void writeExam() {
-        System.out.println(fullName + " (IU Student) is writing an exam.");
+        System.out.println(fullName + " (IU Student) is writing an exam right now.");
     }
 }
